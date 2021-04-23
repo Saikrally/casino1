@@ -1,4 +1,4 @@
-link = "https://www.tempspins.pw/en"
+link = "https://finnplay:password@www.tempspins.pw/"
 
 
 def test_open_login_page(browser):
